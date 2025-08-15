@@ -1,0 +1,3 @@
+﻿<Solution>
+  <Project Path="src\IParser\IParser.csproj" Type="Classic C#" />
+</Solution>
