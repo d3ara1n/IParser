@@ -2,8 +2,16 @@
 
     <PropertyGroup>
         <TargetFramework>net9.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>IParser</PackageId>
+        <Title>IParser</Title>
+        <Authors>Dearain</Authors>
+        <Description>Add IParser interface.</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/d3ara1n/IParser</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/d3ara1n/IParser</PackageProjectUrl>
+        <PackageTags>parser pattern</PackageTags>
+        <LangVersion>default</LangVersion>
     </PropertyGroup>
 
 </Project>
